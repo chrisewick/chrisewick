@@ -1,4 +1,4 @@
-- 👋 Hi, I’m (Christopher!) @chrisewick
+- 👋 Hi, I’m Christopher! (@chrisewick here and on twitter and maybe other places!)
 - 👀 I’m interested in game development and software dev in general.
 - 🌱 I’m currently learning C languages and fighting with UE4; I'm also currently employed as a junior data analyst.
 
